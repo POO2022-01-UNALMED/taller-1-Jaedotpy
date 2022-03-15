@@ -1,3 +1,7 @@
 Nombre: Johan Alberto Correa Tole
 Edad: 20
 Aspiraciones: Aprender a manejar mas profundamente el lenguaje de programación java y aprender la metodologia y uso de los objetos a la hora de programar.
+=======
+Ahora si podemos subir la carpeta porque ya no está vacia, ya contiene el archivo respuesta.txt
+=======
+Se debe tener cuidado con modificar archivos al mismo tiempo porque esto puede generar que se combinen archivos
