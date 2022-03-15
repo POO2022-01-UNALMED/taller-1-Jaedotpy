@@ -1,0 +1,3 @@
+Nombre: Johan Alberto Correa Tole
+Edad: 20
+Aspiraciones: Aprender a manejar mas profundamente el lenguaje de programación java y aprender la metodologia y uso de los objetos a la hora de programar.
